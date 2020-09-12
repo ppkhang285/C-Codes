@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1514140574 source:e:\laptrinh\c++\dohoa\main.cpp
+	<iostream>
+
+1578825711 source:e:\laptrinh\c++\dohoa\graphicc.cpp
+	<graphics.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
