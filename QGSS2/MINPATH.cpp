@@ -12,6 +12,7 @@ int dx[] = {0, 1, 0,-1};
 int dy[] = {1, 0,-1, 0};
 int d[N][N], a[N][N];
 ii Trace[N][N];
+
 int n,m;
 int DIJ(){
     priority_queue< iii, vector<iii> , greater<iii> > PQ;
